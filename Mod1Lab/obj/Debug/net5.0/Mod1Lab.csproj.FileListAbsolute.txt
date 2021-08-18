@@ -1,0 +1,16 @@
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\Mod1Lab.exe
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\Mod1Lab.deps.json
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\Mod1Lab.runtimeconfig.json
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\Mod1Lab.runtimeconfig.dev.json
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\Mod1Lab.dll
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\ref\Mod1Lab.dll
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\bin\Debug\net5.0\Mod1Lab.pdb
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.csproj.AssemblyReference.cache
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.AssemblyInfoInputs.cache
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.AssemblyInfo.cs
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.csproj.CoreCompileInputs.cache
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.dll
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\ref\Mod1Lab.dll
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.pdb
+C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\obj\Debug\net5.0\Mod1Lab.genruntimeconfig.cache
