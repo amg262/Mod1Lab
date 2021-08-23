@@ -88,16 +88,11 @@ namespace Mod1Lab
             /*
              * Getting console input of 2 variables used below
              */
-            Console.WriteLine("Enter Number 1:");
+            Console.Write("Input first number>");
             string numOne = Console.ReadLine();
-            Console.WriteLine("Enter Number 2:");
+            Console.Write("Input second number>");
             string numTwo = Console.ReadLine();
 
-            /*
-            * assigning variables and converting for math below
-            */
-            int numOneInt = Convert.ToInt32(numOne);
-            int numTwoInt = Convert.ToInt32(numTwo);
 
             /*
             * validating input and writeing the math output
@@ -105,13 +100,38 @@ namespace Mod1Lab
             if ((numOne != null) && numTwo != null)
             {
              
-                Console.Write(numOneInt + numTwoInt);
+                /*
+                * assigning variables and converting for math below
+                */
+                int numOneInt = Convert.ToInt32(numOne);
+                int numTwoInt = Convert.ToInt32(numTwo);
+
+                int sum = numOneInt + numTwoInt;
+                int diff = numOneInt - numTwoInt;
+                int prod = numOneInt * numTwoInt;
+                
+                Console.Write(numOne + " + " + numTwo + " = ");
+                Console.Write( numOneInt + numTwoInt);
                 Console.WriteLine(" sum");
+                Console.Write(numOne + " - " + numTwo + " = ");
                 Console.Write(numOneInt - numTwoInt);
                 Console.WriteLine(" difference");
+                Console.Write(numOne + " * " + numTwo + " = ");
                 Console.Write(numOneInt * numTwoInt);
                 Console.WriteLine(" product");
+                
+                Console.Write("Input height>");
+                string height1 = Console.ReadLine();
+                Console.Write("Input width>");
+                string width1 = Console.ReadLine();
+                
+                int height = Convert.ToInt32(height1);
+                int width = Convert.ToInt32(width1);
+                int area = height * width;
+                Console.WriteLine("Area: " + area);
             }
+            
+            
             /*
              * return null just run and print
              */

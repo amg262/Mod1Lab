@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Mod1Lab
-build_property.ProjectDir = C:\Users\Andy\RiderProjects\WeekOne\Mod1Lab\Mod1Lab\
+build_property.ProjectDir = C:\Users\Andy\repo\Mod1Lab\Mod1Lab\
